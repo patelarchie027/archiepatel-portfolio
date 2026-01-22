@@ -1,0 +1,15 @@
+
+{
+  "name": "archie-patel-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "framer-motion": "^12.26.2",
+    "lucide-react": "^0.562.0"
+  },
+  "scripts": {
+    "start": "echo 'Using browser-native ESM execution'"
+  }
+}

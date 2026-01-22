@@ -1,11 +1,12 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# Archie Patel | Tech Architect Portfolio
 
-  <h1>Built with AI Studio</h2>
+A high-performance, animated professional portfolio built with React 19, Framer Motion, and Tailwind CSS.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Features
+- **Architecture**: ES Module based (no-build required).
+- **Tech Stack**: React, Framer Motion, Lucide Icons, Tailwind CSS.
+- **Sections**: Core Competencies, Professional Journey, Community & Leadership, Case Studies.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Deployment
+This project is designed for zero-config deployment to **GitHub Pages**. Ensure GitHub Pages is set to deploy from the `main` branch root.
